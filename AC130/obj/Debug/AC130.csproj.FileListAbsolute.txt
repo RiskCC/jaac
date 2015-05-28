@@ -1,0 +1,9 @@
+D:\Temp\Experimentz\AC130\AC130\bin\Debug\AC130.exe.config
+D:\Temp\Experimentz\AC130\AC130\bin\Debug\AC130.exe
+D:\Temp\Experimentz\AC130\AC130\bin\Debug\AC130.pdb
+D:\Temp\Experimentz\AC130\AC130\obj\Debug\AC130.AC130.resources
+D:\Temp\Experimentz\AC130\AC130\obj\Debug\AC130.Properties.Resources.resources
+D:\Temp\Experimentz\AC130\AC130\obj\Debug\AC130.csproj.GenerateResource.Cache
+D:\Temp\Experimentz\AC130\AC130\obj\Debug\AC130.exe
+D:\Temp\Experimentz\AC130\AC130\obj\Debug\AC130.pdb
+D:\Temp\Experimentz\AC130\AC130\obj\Debug\AC130.csprojResolveAssemblyReference.cache
