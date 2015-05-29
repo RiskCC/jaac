@@ -1,0 +1,10 @@
+**/.idea/*
+**/obj/*
+**/bin/*
+dist/*
+*.suo
+UpgradeLog.htm
+*.mdf
+*.ldf
+*.orig
+*.sdf
